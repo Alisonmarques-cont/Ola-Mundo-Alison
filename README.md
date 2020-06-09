@@ -1,2 +1,2 @@
-# Ola Mundo Alison
- Primeiro repositório versionado
+# Olá, Mundo Alison!
+ Primeiro repositório da aula de Git e Github com Gustavo Guanabara
